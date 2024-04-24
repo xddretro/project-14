@@ -1,0 +1,5 @@
+# ninja log v5
+6	138	7356796677733626	CMakeFiles/untitled2.dir/main.c.obj	f07688851a38894b
+13	145	7356796677783495	CMakeFiles/untitled2.dir/libs/data_structures/vector/vector.c.obj	b032ceccd66522de
+24	147	7356796677823389	CMakeFiles/untitled2.dir/libs/data_structures/vector_void/vector_void.c.obj	488cf355d4ac47fd
+147	243	7356796678770846	untitled2.exe	c23e8648aa02b5eb
